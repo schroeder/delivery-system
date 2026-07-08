@@ -25,6 +25,7 @@ Claude subagent wrappers may live in `.claude/agents/`, but they should only del
 | Frontend Developer | `frontend-developer.agent.md` | Frontend application, UI behavior, routing, client-side integration |
 | QA Engineer | `qa-engineer.agent.md` | Integration tests, acceptance verification, regression checks |
 | Content Editor | `content-editor.agent.md` | Content structure, editorial quality, metadata, documentation review |
+| Security Auditor | `security-auditor.agent.md` | Security reviews, code audits, vulnerability identification, findings log |
 
 ## How To Select An Agent
 
@@ -53,6 +54,7 @@ When working in Kiro spec-driven mode:
 | Client-side integration | Frontend Developer | Backend Developer, QA Engineer |
 | Testing and acceptance verification | QA Engineer | Frontend Developer, Technical Lead |
 | Content and documentation quality | Content Editor | Project Manager, Technical Lead |
+| Security audits and code review | Security Auditor | Technical Lead, Backend Developer, Frontend Developer, DevOps Engineer |
 | Project sequencing and reporting | Project Manager | All agents |
 
 ## Standard Agent Workflow

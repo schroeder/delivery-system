@@ -85,6 +85,7 @@ Specialized agent guidance lives in `.github/agents/`. Use these roles as workin
 - `frontend-developer`: frontend application, UI behavior, routing, client-side integration
 - `qa-engineer`: test strategy, automated/manual verification, acceptance checks
 - `content-editor`: content structure, editorial quality, metadata, documentation review
+- `security-auditor`: security reviews, code audits, vulnerability identification, findings log
 
 If a task spans multiple roles, identify the primary owner and list required collaborators.
 
